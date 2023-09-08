@@ -1,0 +1,7 @@
+C:\project1\HelloWorldApp\bin\Debug\net7.0\publish\HelloWorldApp.exe
+C:\project1\HelloWorldApp\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\project1\HelloWorldApp\bin\Debug\net7.0\publish\appsettings.json
+C:\project1\HelloWorldApp\bin\Debug\net7.0\publish\HelloWorldApp.dll
+C:\project1\HelloWorldApp\bin\Debug\net7.0\publish\HelloWorldApp.deps.json
+C:\project1\HelloWorldApp\bin\Debug\net7.0\publish\HelloWorldApp.runtimeconfig.json
+C:\project1\HelloWorldApp\bin\Debug\net7.0\publish\HelloWorldApp.pdb
